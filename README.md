@@ -141,7 +141,7 @@ This project uses [Books to Scrape](https://books.toscrape.com/), a website spec
 It is intended for educational purposes.
 
 ## Author
+
 **Nuwan Thuduwage Don**
 
-**Your Name**
 
